@@ -1,0 +1,1 @@
+url=`https://newsapi.org/v2/top-headlines?country=${this.props.country}&apiKey=${this.props.Api_Key}&category=${this.props.category}&page=${this.state.page}&pageSize=${this.props.pageSize}`
